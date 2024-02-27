@@ -5,13 +5,15 @@ Este repositorio ofrece un análisis exhaustivo de diversas técnicas de Procesa
 
 *   Redes Neuronales
 *  Bosques Aleatorios
-Máquinas de Soporte Vectorial (SVM)
-Regresión Logística
-Estos se complementan con técnicas de vectorización y análisis NLP, tales como:
+*  Máquinas de Soporte Vectorial (SVM)
+*  Regresión Logística
 
-Análisis Lingüístico y Conteo de Palabras (LIWC)
-Bolsa de Palabras (BoW)
-N-gramas
-Frecuencia de Término-Inversa de Frecuencia de Documento (TF-IDF)
-Asignación de Dirichlet Latente (LDA)
-Word2Vec
+
+**Técnicas de vectorización y análisis NLP, tales como:**
+
+*  Linguistic Inquiry and Word Count (LIWC)
+*  Bag of Words (BoW)
+*  N-grams
+*  Term Frequency-Inverse Document Frequency (TF-IDF)
+*  Latent Dirichlet Allocation (LDA)
+*  Word2Vec
