@@ -17,3 +17,8 @@ Este repositorio ofrece un análisis exhaustivo de diversas técnicas de Procesa
 *  Term Frequency-Inverse Document Frequency (TF-IDF)
 *  Latent Dirichlet Allocation (LDA)
 *  Word2Vec
+
+# Referencias Clave
+Leis, A., Ronzano, F., Mayer, M. A., Furlong, L. I., & Sanz, F. (2019). Detecting Signs of Depression in Tweets in Spanish: Behavioral and Linguistic Analysis. Journal of Medical Internet Research, 21(6), e14199. https://doi.org/10.2196/14199
+
+Villa-Pérez, Miryam Elizabeth, & Luis A. Trejo. (2023). Twitter Dataset for Mental Disorders Detection. IEEE Dataport. https://doi.org/10.21227/6pxp-4t91
