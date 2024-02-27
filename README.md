@@ -27,6 +27,10 @@ Este repositorio ofrece un análisis exhaustivo de diversas técnicas de Procesa
 * LIW, BOW y LDA
 * LIWC, TF-IDF y LDA
 
+# Conjunto datos
+![image](https://github.com/reyksayk/Comparaci-n-de-las-diferentes-t-cnica-y-modelos-de-Procesamiento-de-Lenguaje-Natural-/assets/115599067/afe556a0-fe2f-47c5-b553-1fa3cd8681f1)
+
+
 # Referencias Base de datos
 Leis, A., Ronzano, F., Mayer, M. A., Furlong, L. I., & Sanz, F. (2019). Detecting Signs of Depression in Tweets in Spanish: Behavioral and Linguistic Analysis. Journal of Medical Internet Research, 21(6), e14199. https://doi.org/10.2196/14199
 
