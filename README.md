@@ -7,7 +7,7 @@ Este repositorio ofrece un análisis exhaustivo de diversas técnicas de Procesa
 *  Bosques Aleatorios
 *  Máquinas de Soporte Vectorial (SVM)
 *  Regresión Logística
-
+ 
 
 **Técnicas de vectorización y análisis NLP, tales como:**
 
